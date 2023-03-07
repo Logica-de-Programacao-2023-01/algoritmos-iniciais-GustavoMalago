@@ -1,0 +1,12 @@
+Algoritmo de conversão de temperatura: um algoritmo que 
+converte uma temperatura em Celsius para Fahrenheit ou 
+vice-versa.
+
+var
+ celsius , farenheit : real
+
+escreva("Farenheit? ")
+leia(farenehit)
+celsius <- 5 * (farenheit - 32) / 9
+escreva("celsius = ", celsius)
+
