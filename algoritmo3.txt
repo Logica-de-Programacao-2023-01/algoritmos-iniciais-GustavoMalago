@@ -1,0 +1,9 @@
+Calculo de media
+
+leia lista
+leita tamanho_lista
+var soma = 0
+para cada elemento da lista faça:
+     soma = elemento + soma
+media = soma/tamanho_lista
+escreva media
